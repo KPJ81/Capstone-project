@@ -1,2 +1,3 @@
 # Capstone-project
-# This repository contains files related with Capostone project done to get IBM certificate
+# This repository contains files related with Capstone project.
+# Main opurpose of this project is to get IBM Data Science Professional Certificate
